@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-4.5.0-brightgreen)](000-docs/247-OD-CHNG-changelog.md)
 [![CLI](https://img.shields.io/badge/CLI-ccpi-blueviolet?logo=npm)](https://www.npmjs.com/package/@intentsolutionsio/ccpi)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-739%20Skills-orange?logo=sparkles)](000-docs/247-OD-CHNG-changelog.md)
-[![Plugins](https://img.shields.io/badge/Total%20Plugins-258-blue)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
+[![Plugins](https://img.shields.io/badge/Total%20Plugins-270-blue)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
 [![2025 Schema](https://img.shields.io/badge/2025%20Schema-Compliant-success?logo=checkmarx)](tutorials/skills/05-skill-validation.ipynb)
 [![Tool Permissions](https://img.shields.io/badge/Tool%20Permissions-Secured-blueviolet?logo=shield)](tutorials/skills/02-skill-anatomy.ipynb)
 [![Interactive Tutorials](https://img.shields.io/badge/Tutorials-11%20Notebooks-yellow?logo=jupyter)](000-docs/185-MS-INDX-tutorials.md)
@@ -141,6 +141,8 @@ ccpi validate ./my-plugin
 - **[@JackReis](https://github.com/JackReis) (Jack Reis)** - Contributed neurodivergent-visual-org plugin with ADHD-friendly Mermaid diagrams and accessibility features ([#106](https://github.com/jeremylongshore/claude-code-plugins-plus/pull/106))
 - **[@terrylica](https://github.com/terrylica) (Terry Li)** - Built prettier-markdown-hook with zero-config markdown formatting and comprehensive documentation ([#101](https://github.com/jeremylongshore/claude-code-plugins-plus/pull/101))
 - **[@clickmediapropy](https://github.com/clickmediapropy)** - Reported mobile horizontal scrolling bug, improving website UX ([#120](https://github.com/jeremylongshore/claude-code-plugins-plus/issues/120))
+- **[@BayramAnnakov](https://github.com/bayramannakov) (Bayram Annakov)** - 🧠 Created claude-reflect, a self-learning system that captures corrections during sessions and syncs them to CLAUDE.md - teaching Claude to remember your preferences! ([#241](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/pull/241))
+- **[@jleonelion](https://github.com/jleonelion) (James Leone)** - 🔧 Fixed critical bash variable scoping bug in Learning Lab scripts and improved markdown formatting for better copy-paste experience ([#239](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/pull/239))
 
 **Want to contribute?** See [000-docs/007-DR-GUID-contributing.md](./000-docs/007-DR-GUID-contributing.md) or reach out to **jeremy@intentsolutions.io**
 

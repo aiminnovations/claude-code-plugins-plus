@@ -5049,6 +5049,28 @@
         "email": "numman.ali@gmail.com",
         "url": "https://github.com/numman-ali"
       }
+    },
+    {
+      "name": "claude-reflect",
+      "source": "./plugins/community/claude-reflect",
+      "description": "Self-learning system for Claude Code that captures corrections and updates CLAUDE.md automatically",
+      "version": "1.4.1",
+      "category": "community",
+      "keywords": [
+        "claude-code",
+        "self-learning",
+        "corrections",
+        "CLAUDE.md",
+        "memory",
+        "learnings",
+        "hooks",
+        "automation"
+      ],
+      "author": {
+        "name": "Bayram Annakov",
+        "url": "https://github.com/bayramannakov"
+      },
+      "repository": "https://github.com/bayramannakov/claude-reflect"
     }
   ]
 }
