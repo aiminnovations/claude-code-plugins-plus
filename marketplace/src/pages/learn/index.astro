@@ -235,7 +235,12 @@ const sortedVendors = [...vendorPacks.vendors].sort((a, b) => {
               <a href={`/learn/${vendor.id}/`} class="vendor-card">
                 <div class="vendor-header">
                   <div class="vendor-icon" style={`background: ${vendor.color}15; color: ${vendor.color};`}>
-                    {vendor.icon === 'database' ? '🗄️' : vendor.icon === 'cloud' ? '☁️' : '📦'}
+                    {vendor.icon === 'database' ? '🗄️' :
+                     vendor.icon === 'cloud' ? '☁️' :
+                     vendor.icon === 'alert-triangle' ? '⚠️' :
+                     vendor.icon === 'code' ? '💻' :
+                     vendor.icon === 'layers' ? '🔗' :
+                     vendor.icon === 'video' ? '🎬' : '📦'}
                   </div>
                   <h3 class="vendor-name">{vendor.name}</h3>
                 </div>
