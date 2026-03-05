@@ -12,9 +12,12 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 1,
   workers: process.env.CI ? 2 : 4,
 
+  // Separate output dirs to avoid clashing with default playwright config
+  outputDir: 'production-test-results',
+
   reporter: process.env.CI
-    ? [['html', { outputFolder: 'test-results/production-report' }], ['github'], ['list']]
-    : [['html', { outputFolder: 'test-results/production-report' }], ['list']],
+    ? [['html', { outputFolder: 'production-e2e-report' }], ['github'], ['list']]
+    : [['html', { outputFolder: 'production-e2e-report' }], ['list']],
 
   use: {
     baseURL: 'https://tonsofskills.com',
