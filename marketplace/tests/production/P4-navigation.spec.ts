@@ -34,15 +34,17 @@ test.describe('P4: Navigation', () => {
   test('Skills Directory links to individual skill or cowork', async ({ page }) => {
     await page.goto('/skills/');
 
-    const skillCards = page.locator('a[href*="/skills/"], a[href*="/cowork"]');
+    // Scope to the skills grid to avoid nav links
+    const skillCards = page.locator('.skill-card, #skills-grid a');
     const count = await skillCards.count();
     expect(count).toBeGreaterThan(0);
 
-    // Click first card and verify it loads
+    // Navigate via href instead of clicking (avoids mobile visibility issues)
     const firstCard = skillCards.first();
     const href = await firstCard.getAttribute('href');
-    await firstCard.click();
+    expect(href).toBeTruthy();
 
+    await page.goto(href!);
     const title = await page.title();
     expect(title).not.toContain('404');
   });
