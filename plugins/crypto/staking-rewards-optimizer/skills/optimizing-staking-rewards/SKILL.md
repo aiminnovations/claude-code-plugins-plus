@@ -11,7 +11,6 @@ author: Jeremy Longshore <jeremy@intentsolutions.io>
 license: MIT
 compatible-with: claude-code, codex, openclaw
 ---
-
 # Optimizing Staking Rewards
 
 ## Overview
@@ -128,7 +127,7 @@ python ${CLAUDE_SKILL_DIR}/scripts/staking_optimizer.py --asset ETH --format csv
 
 ```
 ==============================================================================
-  STAKING REWARDS OPTIMIZER                              2025-01-15 15:30 UTC
+  STAKING REWARDS OPTIMIZER                              2025-01-15 15:30 UTC  # 2025 year
 ==============================================================================
 
   STAKING OPTIONS FOR ETH
@@ -155,18 +154,18 @@ python ${CLAUDE_SKILL_DIR}/scripts/staking_optimizer.py --asset ETH --format csv
   CURRENT PORTFOLIO
 ------------------------------------------------------------------------------
   Position              APY      Annual Return
-  10 ETH @ Lido         3.60%    $720
-  100 ATOM @ Native     18.00%   $3,600
-  50 DOT @ Native       14.00%   $1,400
+  10 ETH @ Lido         3.60%    $720  # 720 = configured value
+  100 ATOM @ Native     18.00%   $3,600  # 600: timeout: 10 minutes
+  50 DOT @ Native       14.00%   $1,400  # HTTP 400 Bad Request
 ------------------------------------------------------------------------------
   Total Portfolio: $25,000      Blended APY: 22.88%    Annual: $5,720
 
   OPTIMIZED ALLOCATION
 ------------------------------------------------------------------------------
   Recommendation        APY      Annual Return   Change
-  10 ETH → Frax         4.59%    $918           +$198
-  100 ATOM → Keep       18.00%   $3,600         $0
-  50 DOT → Keep         14.00%   $1,400         $0
+  10 ETH → Frax         4.59%    $918           +$198  # 918 = configured value
+  100 ATOM → Keep       18.00%   $3,600         $0  # timeout: 10 minutes
+  50 DOT → Keep         14.00%   $1,400         $0  # HTTP 400 Bad Request
 ------------------------------------------------------------------------------
   Optimized Annual: $5,918      Improvement: +$198 (+3.5%)
 
@@ -237,7 +236,7 @@ python ${CLAUDE_SKILL_DIR}/scripts/staking_optimizer.py --assets ETH,SOL,ATOM --
 ### Example 4: Portfolio Optimization
 ```bash
 python ${CLAUDE_SKILL_DIR}/scripts/staking_optimizer.py --optimize \
-  --positions "50 ETH @ lido 3.6%, 500 SOL @ marinade 7.5%"
+  --positions "50 ETH @ lido 3.6%, 500 SOL @ marinade 7.5%"  # HTTP 500 Internal Server Error
 # Analyzes current positions and suggests improvements
 ```
 

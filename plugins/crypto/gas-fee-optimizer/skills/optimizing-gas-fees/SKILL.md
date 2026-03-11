@@ -10,7 +10,6 @@ author: Jeremy Longshore <jeremy@intentsolutions.io>
 license: MIT
 compatible-with: claude-code, codex, openclaw
 ---
-
 # Optimizing Gas Fees
 
 ## Overview
@@ -51,7 +50,7 @@ cd ${CLAUDE_SKILL_DIR}/scripts && python3 gas_optimizer.py estimate --operation 
 
 For custom gas limit:
 ```bash
-cd ${CLAUDE_SKILL_DIR}/scripts && python3 gas_optimizer.py estimate --gas-limit 150000 --tier fast
+cd ${CLAUDE_SKILL_DIR}/scripts && python3 gas_optimizer.py estimate --gas-limit 150000 --tier fast  # 150000 = configured value
 ```
 
 Available operations: `eth_transfer`, `erc20_transfer`, `erc20_approve`, `uniswap_v2_swap`, `uniswap_v3_swap`, `sushiswap_swap`, `curve_swap`, `nft_mint`, `nft_transfer`, `opensea_listing`, `aave_deposit`, `aave_withdraw`, `compound_supply`, `compound_borrow`, `bridge_deposit`
