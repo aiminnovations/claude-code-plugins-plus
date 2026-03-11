@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0.0",
-    "generated": "2026-03-11T00:48:54.973Z",
+    "generated": "2026-03-11T02:16:16.761Z",
     "generator": "scripts/generate-unified-search.mjs"
   },
   "stats": {
@@ -1460,6 +1460,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "content consistency validator read-only validator that generates comprehensive discrepancy reports comparing messaging consistency across any html-based website (wordpress, hugo, next.js, react, vue, static html, etc.), github repositories, and local documentation. detects mixed messaging without making changes. productivity documentation consistency validation website github content-audit messaging quality-assurance wordpress hugo nextjs react vue static-site jekyll gatsby sop standards"
     },
     {
@@ -1491,6 +1494,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "yaml master agent intelligent yaml validation, generation, and transformation agent with schema inference, linting, and format conversion capabilities productivity yaml validation linting schema json conversion parsing agent-skills"
     },
     {
@@ -1526,6 +1532,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "vertex ai media master comprehensive google vertex ai multimodal mastery for jeremy - video processing (6+ hours), audio generation, image creation with gemini 2.0/2.5 and imagen 4. marketing campaign automation, content generation, and media asset production. productivity vertex-ai gemini multimodal video-processing audio-generation image-generation marketing campaigns content-generation imagen media-production google-cloud"
     },
     {
@@ -1561,6 +1570,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "google cloud agent sdk google cloud agent development kit (adk) and agent starter pack mastery - build containerized multi-agent systems with production-ready templates, deploy to cloud run/gke/agent engine, rag agents, react agents, and multi-agent orchestration. productivity agent-development-kit adk agent-starter-pack multi-agent containerized-agents cloud-run gke agent-engine rag-agents react-agents google-cloud vertex-ai"
     },
     {
@@ -1587,6 +1599,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "access control auditor audit access control implementations security security compliance auditing"
     },
     {
@@ -1617,6 +1632,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "accessibility test scanner a11y compliance testing with wcag 2.1/2.2 validation, screen reader compatibility, and automated accessibility audits testing testing accessibility a11y wcag aria screen-reader compliance"
     },
     {
@@ -1645,6 +1663,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "agent context manager automatically detects and loads agents.md files to provide agent-specific instructions alongside claude.md. enables specialized agent behaviors without manual intervention. productivity agents context automation workflow productivity"
     },
     {
@@ -1701,6 +1722,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 85,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "ai ethics validator ai ethics and fairness validation ai-ml ethics fairness bias responsible-ai ml"
     },
     {
@@ -1758,6 +1782,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ai ml engineering pack professional ai/ml engineering toolkit: prompt engineering, llm integration, rag systems, ai safety with 12 expert plugins ai-ml ai ml llm prompt-engineering rag vector-database ai-safety openai anthropic package"
     },
     {
@@ -1794,6 +1821,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ai sdk agents multi-agent orchestration with ai sdk v5 - handoffs, routing, and coordination for any ai provider (openai, anthropic, google) ai-ml ai-sdk agents multi-agent orchestration handoff routing llm openai anthropic google claude ai coordination"
     },
     {
@@ -1821,6 +1851,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "alerting rule creator create intelligent alerting rules for performance monitoring performance alerting monitoring sre observability"
     },
     {
@@ -1849,6 +1882,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "anomaly detection system detect anomalies and outliers in data ai-ml anomaly outliers detection isolation ml"
     },
     {
@@ -1877,6 +1913,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ansible playbook creator create ansible playbooks for configuration management devops ansible automation configuration playbooks devops"
     },
     {
@@ -1904,6 +1943,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api authentication builder build authentication systems with jwt, oauth2, and api keys api-development authentication jwt oauth security"
     },
     {
@@ -1931,6 +1973,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api batch processor implement batch api operations with bulk processing and job queues api-development batch bulk queue job-processing"
     },
     {
@@ -1958,6 +2003,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api cache manager implement caching strategies with redis, cdn, and http headers api-development caching redis cdn performance"
     },
     {
@@ -1985,6 +2033,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api contract generator generate api contracts for consumer-driven contract testing api-development contract pact testing microservices"
     },
     {
@@ -2013,6 +2064,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api documentation generator generate comprehensive api documentation from openapi/swagger specs api-development api documentation openapi swagger docs"
     },
     {
@@ -2040,6 +2094,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api error handler implement standardized error handling with proper http status codes api-development error-handling api http-status exceptions"
     },
     {
@@ -2068,6 +2125,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api event emitter implement event-driven apis with message queues and event streaming api-development events messaging kafka rabbitmq event-driven"
     },
     {
@@ -2097,6 +2157,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api fuzzer fuzz testing for apis with malformed inputs, edge cases, and security vulnerability detection testing testing fuzzing api security edge-cases input-validation"
     },
     {
@@ -2124,6 +2187,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api gateway builder build api gateway with routing, authentication, and rate limiting api-development api-gateway routing proxy microservices"
     },
     {
@@ -2151,6 +2217,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api load tester load test apis with k6, gatling, or artillery api-development load-testing performance k6 stress-testing"
     },
     {
@@ -2178,6 +2247,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api migration tool migrate apis between versions with backward compatibility api-development migration versioning api backward-compatibility"
     },
     {
@@ -2205,6 +2277,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api mock server create mock api servers from openapi specs for testing api-development mock testing openapi stub"
     },
     {
@@ -2232,6 +2307,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api monitoring dashboard create monitoring dashboards for api health, metrics, and alerts api-development monitoring metrics observability dashboard"
     },
     {
@@ -2259,6 +2337,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api rate limiter implement rate limiting with token bucket, sliding window, and redis api-development rate-limiting throttling api redis"
     },
     {
@@ -2286,6 +2367,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api request logger log api requests with structured logging and correlation ids api-development logging observability audit correlation"
     },
     {
@@ -2313,6 +2397,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api response validator validate api responses against schemas and contracts api-development validation schema testing api"
     },
     {
@@ -2341,6 +2428,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api schema validator validate api schemas with json schema, joi, yup, or zod api-development schema validation json-schema joi zod"
     },
     {
@@ -2368,6 +2458,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api sdk generator generate client sdks from openapi specs for multiple languages api-development sdk client openapi codegen"
     },
     {
@@ -2395,6 +2488,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api security scanner scan apis for security vulnerabilities and owasp api top 10 api-development security api owasp vulnerability"
     },
     {
@@ -2424,6 +2520,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api test automation automated api endpoint testing with request generation, validation, and comprehensive test coverage testing testing api rest graphql automation endpoints"
     },
     {
@@ -2451,6 +2550,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api throttling manager manage api throttling with dynamic rate limits and quota management api-development throttling rate-limiting quota traffic-management"
     },
     {
@@ -2478,6 +2580,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "api versioning manager manage api versions with migration strategies and backward compatibility api-development api versioning migration backward-compatibility"
     },
     {
@@ -2506,6 +2611,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "apm dashboard creator create application performance monitoring dashboards performance apm monitoring dashboard grafana datadog"
     },
     {
@@ -2533,6 +2641,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "application profiler profile application performance with cpu, memory, and execution time analysis performance performance profiling monitoring optimization"
     },
     {
@@ -2561,6 +2672,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "arbitrage opportunity finder find and analyze arbitrage opportunities across exchanges and defi protocols crypto arbitrage trading defi mev profit"
     },
     {
@@ -2587,6 +2701,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "authentication validator validate authentication implementations security security compliance auditing"
     },
     {
@@ -2615,6 +2732,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "auto scaling configurator configure auto-scaling policies for applications and infrastructure devops autoscaling scaling hpa kubernetes devops"
     },
     {
@@ -2643,6 +2763,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "automl pipeline builder build automl pipelines ai-ml automl automated pipeline h2o ml"
     },
     {
@@ -2670,6 +2793,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "backup strategy implementor implement backup strategies for databases and applications devops backup disaster-recovery restoration devops"
     },
     {
@@ -2699,6 +2825,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "blockchain explorer cli command-line blockchain explorer for transactions, addresses, and contracts crypto blockchain explorer etherscan transactions addresses contracts"
     },
     {
@@ -2726,6 +2855,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "bottleneck detector detect and resolve performance bottlenecks performance bottleneck performance optimization profiling"
     },
     {
@@ -2755,6 +2887,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "browser compatibility tester cross-browser testing with browserstack, selenium grid, and playwright - test across chrome, firefox, safari, edge testing testing cross-browser browserstack selenium playwright compatibility"
     },
     {
@@ -2782,6 +2917,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cache performance optimizer optimize caching strategies for improved performance performance cache performance optimization redis"
     },
     {
@@ -2833,6 +2971,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "capacity planning analyzer analyze and plan for capacity requirements performance capacity-planning scaling forecasting infrastructure"
     },
     {
@@ -2862,6 +3003,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "chaos engineering toolkit chaos testing for resilience with failure injection, latency simulation, and system resilience validation testing testing chaos-engineering resilience failure-injection fault-tolerance reliability"
     },
     {
@@ -2891,6 +3035,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ci cd pipeline builder build ci/cd pipelines for github actions, gitlab ci, jenkins, and more devops ci-cd github-actions gitlab-ci jenkins devops automation"
     },
     {
@@ -2919,6 +3066,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "classification model builder build classification models ai-ml classification supervised predictor labels ml"
     },
     {
@@ -2948,6 +3098,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cloud cost optimizer optimize cloud costs and generate cost reports devops cost optimization finops cloud aws devops"
     },
     {
@@ -2976,6 +3129,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "clustering algorithm runner run clustering algorithms on datasets ai-ml clustering kmeans dbscan hierarchical ml"
     },
     {
@@ -3005,6 +3161,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "compliance checker check infrastructure compliance (soc2, hipaa, pci-dss) devops compliance security audit soc2 hipaa devops"
     },
     {
@@ -3031,6 +3190,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "compliance report generator generate compliance reports security security compliance auditing"
     },
     {
@@ -3059,6 +3221,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "computer vision processor computer vision image processing and analysis ai-ml cv vision images detection ml"
     },
     {
@@ -3088,6 +3253,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "container registry manager manage container registries (ecr, gcr, harbor) devops registry containers docker ecr gcr devops"
     },
     {
@@ -3117,6 +3285,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "container security scanner scan containers for vulnerabilities using trivy, snyk, and other security tools devops security containers scanning vulnerabilities trivy devops"
     },
     {
@@ -3147,6 +3318,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "contract test validator api contract testing with pact, openapi validation, and consumer-driven contract verification testing testing contract-testing pact openapi api microservices consumer-driven"
     },
     {
@@ -3204,6 +3378,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cors policy validator validate cors policies security security compliance auditing"
     },
     {
@@ -3231,6 +3408,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cpu usage monitor monitor and analyze cpu usage patterns in applications performance cpu monitoring performance optimization"
     },
     {
@@ -3301,6 +3481,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cross chain bridge monitor monitor cross-chain bridge activity, track transfers, analyze security, and detect bridge exploits crypto crypto cross-chain bridge security monitoring layer2 multichain defi"
     },
     {
@@ -3332,6 +3515,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "crypto derivatives tracker track crypto futures, options, perpetual swaps with funding rates, open interest, and derivatives market analysis crypto crypto derivatives futures options perpetuals funding-rate open-interest trading"
     },
     {
@@ -3360,6 +3546,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 83,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "crypto news aggregator aggregate and analyze crypto news from multiple sources with sentiment analysis crypto news aggregator sentiment crypto media"
     },
     {
@@ -3390,6 +3579,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 83,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "crypto portfolio tracker professional crypto portfolio tracking with real-time prices, pnl analysis, and risk metrics crypto crypto portfolio trading investment bitcoin ethereum defi"
     },
     {
@@ -3418,6 +3610,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "crypto signal generator generate trading signals from technical indicators and market analysis crypto trading signals technical-analysis indicators crypto"
     },
     {
@@ -3447,6 +3642,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "crypto tax calculator calculate crypto taxes with fifo/lifo methods and generate tax reports crypto crypto tax calculator fifo lifo capital gains"
     },
     {
@@ -3473,6 +3671,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "csrf protection validator validate csrf protection security security compliance auditing"
     },
     {
@@ -3501,6 +3702,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "data preprocessing pipeline automated data preprocessing and cleaning pipelines ai-ml preprocessing cleaning etl pipeline data"
     },
     {
@@ -3527,6 +3731,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "data privacy scanner scan for data privacy issues security security compliance auditing"
     },
     {
@@ -3555,6 +3762,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "data seeder generator generate realistic test data and database seed scripts for development and testing environments database seeding test-data fixtures database testing"
     },
     {
@@ -3581,6 +3791,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "data validation engine database plugin for data-validation-engine database database backend validation"
     },
     {
@@ -3609,6 +3822,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "data visualization creator create data visualizations and plots ai-ml visualization plots charts graphs analytics"
     },
     {
@@ -3635,6 +3851,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database archival system database plugin for database-archival-system database database backend archival"
     },
     {
@@ -3661,6 +3880,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database audit logger database plugin for database-audit-logger database database backend audit"
     },
     {
@@ -3689,6 +3911,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 74,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "database backup automator automate database backups with scheduling, compression, encryption, and restore procedures database database backup automation disaster-recovery devops"
     },
     {
@@ -3715,6 +3940,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database cache layer database plugin for database-cache-layer database database backend cache"
     },
     {
@@ -3743,6 +3971,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database connection pooler implement and optimize database connection pooling for improved performance and resource management database connection-pool database performance backend optimization"
     },
     {
@@ -3769,6 +4000,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database deadlock detector database plugin for database-deadlock-detector database database backend deadlock"
     },
     {
@@ -3795,6 +4029,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database diff tool database plugin for database-diff-tool database database backend diff"
     },
     {
@@ -3821,6 +4058,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database documentation gen database plugin for database-documentation-gen database database backend documentation"
     },
     {
@@ -3847,6 +4087,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database health monitor database plugin for database-health-monitor database database backend health"
     },
     {
@@ -3874,6 +4117,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database index advisor analyze query patterns and recommend optimal database indexes with impact analysis database database indexes optimization performance"
     },
     {
@@ -3902,6 +4148,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database migration manager manage database migrations with version control, rollback capabilities, and automated schema evolution tracking database database migration schema version-control backend"
     },
     {
@@ -3928,6 +4177,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database partition manager database plugin for database-partition-manager database database backend partition"
     },
     {
@@ -3980,6 +4232,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database recovery manager database plugin for database-recovery-manager database database backend recovery"
     },
     {
@@ -4008,6 +4263,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database replication manager manage database replication, failover, and high availability configurations database replication high-availability failover database devops"
     },
     {
@@ -4036,6 +4294,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database schema designer design and visualize database schemas with normalization guidance, relationship mapping, and erd generation database database schema design erd normalization"
     },
     {
@@ -4062,6 +4323,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database security scanner database plugin for database-security-scanner database database backend security"
     },
     {
@@ -4088,6 +4352,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database sharding manager database plugin for database-sharding-manager database database backend sharding"
     },
     {
@@ -4118,6 +4385,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database test manager database testing utilities with test data setup, transaction rollback, and schema validation testing testing database sql test-data fixtures migrations transactions"
     },
     {
@@ -4144,6 +4414,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "database transaction monitor database plugin for database-transaction-monitor database database backend transaction"
     },
     {
@@ -4172,6 +4445,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "dataset splitter split datasets for training, validation, and testing ai-ml split train-test validation stratify ml"
     },
     {
@@ -4200,6 +4476,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "deep learning optimizer deep learning optimization techniques ai-ml optimization adam sgd learning-rate deep-learning"
     },
     {
@@ -4230,6 +4509,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 80,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "defi yield optimizer optimize defi yield farming strategies across protocols with apy tracking and risk assessment crypto defi yield farming liquidity apy optimization crypto"
     },
     {
@@ -4259,6 +4541,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "dependency checker check dependencies for known vulnerabilities, outdated packages, and license compliance security security dependencies npm pip composer vulnerabilities"
     },
     {
@@ -4287,6 +4572,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "deployment pipeline orchestrator orchestrate complex multi-stage deployment pipelines devops pipeline orchestration deployment cicd devops"
     },
     {
@@ -4315,6 +4603,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "deployment rollback manager manage and execute deployment rollbacks with safety checks devops rollback deployment kubernetes recovery devops"
     },
     {
@@ -4379,6 +4670,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "devops automation pack complete devops automation suite with 25 plugins covering git workflows, ci/cd pipelines, docker optimization, kubernetes management, terraform iac, and deployment strategies devops devops ci-cd docker kubernetes terraform deployment infrastructure automation package"
     },
     {
@@ -4408,6 +4702,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 87,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "dex aggregator router find optimal dex routes for token swaps across multiple exchanges crypto dex swap trading defi aggregator routing"
     },
     {
@@ -4435,6 +4732,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "disaster recovery planner plan and implement disaster recovery procedures devops disaster-recovery dr business-continuity devops"
     },
     {
@@ -4488,6 +4788,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "distributed tracing setup set up distributed tracing for microservices performance tracing observability microservices opentelemetry"
     },
     {
@@ -4516,6 +4819,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "docker compose generator generate docker compose configurations for multi-container applications with best practices devops docker docker-compose containers orchestration devops"
     },
     {
@@ -4575,6 +4881,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "e2e test framework end-to-end test automation with playwright, cypress, and selenium for browser-based testing testing testing e2e playwright cypress selenium browser-testing"
     },
     {
@@ -4601,6 +4910,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "encryption tool encrypt and decrypt data with various algorithms security security compliance auditing"
     },
     {
@@ -4629,6 +4941,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "environment config manager manage environment configurations and secrets across deployments devops config environment secrets configuration devops"
     },
     {
@@ -4656,6 +4971,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "error rate monitor monitor and analyze application error rates performance errors monitoring reliability sre"
     },
     {
@@ -4691,6 +5009,9 @@
         "new"
       ],
       "skillCount": 4,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "excel analyst pro professional financial modeling toolkit for claude code with auto-invoked skills and excel mcp integration. build dcf models, lbo analysis, variance reports, and pivot tables using natural language. business-tools excel financial-modeling dcf lbo valuation variance-analysis pivot-tables investment-banking private-equity financial-analysis skills mcp"
     },
     {
@@ -4719,6 +5040,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "experiment tracking setup set up ml experiment tracking ai-ml experiments mlflow wandb tracking mlops"
     },
     {
@@ -4756,6 +5080,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "fairdb operations kit complete operations kit for fairdb postgresql as a service - vps setup, postgresql management, customer provisioning, monitoring, and backup automation devops fairdb postgresql database saas operations devops backup monitoring vps contabo wasabi pgbackrest automation incident-response"
     },
     {
@@ -4807,6 +5134,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "feature engineering toolkit feature creation, selection, and transformation tools ai-ml features engineering selection transformation ml"
     },
     {
@@ -4861,6 +5191,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 86,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "flash loan simulator simulate and analyze flash loan strategies including arbitrage, liquidations, and collateral swaps crypto crypto flash-loans defi aave arbitrage liquidation ethereum simulation"
     },
     {
@@ -4883,6 +5216,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "formatter code formatting plugin using hooks to auto-format on save productivity formatting hooks automation"
     },
     {
@@ -4942,6 +5278,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 88,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "gas fee optimizer optimize transaction gas fees with timing and routing recommendations crypto gas fees ethereum optimization transaction l2"
     },
     {
@@ -4968,6 +5307,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "gdpr compliance scanner scan for gdpr compliance issues security security compliance auditing"
     },
     {
@@ -4997,6 +5339,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "git commit smart ai-powered conventional commit message generator with smart analysis devops git commits conventional-commits automation devops productivity"
     },
     {
@@ -5026,6 +5371,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "gitops workflow builder build gitops workflows with argocd and flux devops gitops argocd flux cd kubernetes devops"
     },
     {
@@ -5055,6 +5403,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "graphql server builder build graphql servers with schema-first design, resolvers, and subscriptions api-development graphql api server apollo schema resolvers"
     },
     {
@@ -5082,6 +5433,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "grpc service generator generate grpc services with protocol buffers and streaming support api-development grpc protobuf microservices streaming"
     },
     {
@@ -5133,6 +5487,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "helm chart generator generate helm charts for kubernetes applications devops helm kubernetes packaging charts devops"
     },
     {
@@ -5159,6 +5516,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "hipaa compliance checker check hipaa compliance security security compliance auditing"
     },
     {
@@ -5187,6 +5547,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "hyperparameter tuner optimize hyperparameters using grid/random/bayesian search ai-ml hyperparameters optimization tuning search ml"
     },
     {
@@ -5216,6 +5579,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "infrastructure as code generator generate infrastructure as code for terraform, cloudformation, pulumi, and more devops iac terraform cloudformation pulumi infrastructure devops"
     },
     {
@@ -5244,6 +5610,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "infrastructure drift detector detect infrastructure drift from desired state devops drift terraform infrastructure monitoring devops"
     },
     {
@@ -5271,6 +5640,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "infrastructure metrics collector collect comprehensive infrastructure performance metrics performance infrastructure metrics monitoring observability"
     },
     {
@@ -5297,6 +5669,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "input validation scanner scan input validation practices security security compliance auditing"
     },
     {
@@ -5325,6 +5700,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "integration test runner run and manage integration test suites with environment setup, database seeding, and cleanup testing testing integration-tests test-runner e2e api-testing"
     },
     {
@@ -5353,6 +5731,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 63,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "kubernetes deployment creator create kubernetes deployments, services, and configurations with best practices devops kubernetes k8s deployment orchestration containers"
     },
     {
@@ -5382,6 +5763,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "liquidity pool analyzer analyze defi liquidity pools for impermanent loss, apy, and optimization opportunities crypto liquidity pool defi impermanent loss apy"
     },
     {
@@ -5411,6 +5795,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "load balancer configurator configure load balancers (alb, nlb, nginx, haproxy) devops load-balancer alb nginx haproxy networking devops"
     },
     {
@@ -5439,6 +5826,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "load balancer tester test load balancing strategies with traffic distribution validation and failover testing testing testing load-balancer traffic-distribution failover high-availability"
     },
     {
@@ -5466,6 +5856,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "load test runner create and execute load tests for performance validation performance load-testing performance stress-test k6"
     },
     {
@@ -5495,6 +5888,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "log aggregation setup set up log aggregation (elk, loki, splunk) devops logging elk loki splunk observability devops"
     },
     {
@@ -5522,6 +5918,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "log analysis tool analyze logs for performance insights and issues performance logs analysis performance debugging"
     },
     {
@@ -5578,6 +5977,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 82,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "market movers scanner scan for top market movers - gainers, losers, volume spikes, and unusual activity crypto market scanner movers gainers losers volume trading"
     },
     {
@@ -5608,6 +6010,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 83,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "market price tracker real-time market price tracking with multi-exchange feeds and advanced alerts crypto market price tracking trading crypto stocks forex"
     },
     {
@@ -5637,6 +6042,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 83,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "market sentiment analyzer analyze market sentiment from social media, news, and on-chain data crypto sentiment analysis social news market crypto"
     },
     {
@@ -5664,6 +6072,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "memory leak detector detect memory leaks and analyze memory usage patterns performance memory leak detection performance"
     },
     {
@@ -5695,6 +6106,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 85,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "mempool analyzer advanced mempool analysis for mev opportunities, pending transaction monitoring, and gas price optimization crypto crypto mempool mev ethereum blockchain gas pending-transactions arbitrage"
     },
     {
@@ -5722,6 +6136,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "metrics aggregator aggregate and centralize performance metrics performance metrics aggregation prometheus monitoring"
     },
     {
@@ -5750,6 +6167,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ml model trainer train and optimize machine learning models with automated workflows ai-ml ml machine-learning training models ai"
     },
     {
@@ -5781,6 +6201,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "mobile app tester mobile app test automation with appium, detox, xcuitest - test ios and android apps testing testing mobile appium detox xcuitest espresso ios android"
     },
     {
@@ -5809,6 +6232,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "model deployment helper deploy ml models to production ai-ml deployment serving production api mlops"
     },
     {
@@ -5837,6 +6263,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "model evaluation suite comprehensive model evaluation with multiple metrics ai-ml evaluation metrics testing validation ml"
     },
     {
@@ -5865,6 +6294,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "model explainability tool model interpretability and explainability ai-ml explainability shap lime interpretability ml"
     },
     {
@@ -5893,6 +6325,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "model versioning tracker track and manage model versions ai-ml versioning mlflow tracking registry mlops"
     },
     {
@@ -5921,6 +6356,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "monitoring stack deployer deploy monitoring stacks (prometheus, grafana, datadog) devops monitoring prometheus grafana observability devops"
     },
     {
@@ -5949,6 +6387,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "mutation test runner mutation testing to validate test quality by introducing code changes and verifying tests catch them testing testing mutation-testing test-quality stryker pitest"
     },
     {
@@ -6003,6 +6444,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "network latency analyzer analyze network latency and optimize request patterns performance network latency performance api"
     },
     {
@@ -6031,6 +6475,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 90,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "network policy manager manage kubernetes network policies and firewall rules devops network-policy security kubernetes firewall devops"
     },
     {
@@ -6059,6 +6506,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "neural network builder build and configure neural network architectures ai-ml neural-networks deep-learning architecture pytorch ml"
     },
     {
@@ -6088,6 +6538,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 88,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "nft rarity analyzer analyze nft rarity scores and valuations across collections crypto nft rarity valuation traits opensea crypto"
     },
     {
@@ -6116,6 +6569,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "nlp text analyzer natural language processing and text analysis ai-ml nlp text analysis tokenization ml"
     },
     {
@@ -6142,6 +6598,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "nosql data modeler database plugin for nosql-data-modeler database database backend data"
     },
     {
@@ -6170,6 +6629,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "on chain analytics analyze on-chain metrics including whale movements, network activity, and holder distribution crypto on-chain analytics whale metrics blockchain"
     },
     {
@@ -6235,6 +6697,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "options flow analyzer track institutional options flow, unusual activity, and smart money movements crypto options flow institutional trading derivatives smart money"
     },
     {
@@ -6263,6 +6728,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "orm code generator generate orm models from database schemas or create database schemas from models for typeorm, prisma, sequelize, sqlalchemy, and more database orm models code-generation database backend"
     },
     {
@@ -6296,6 +6764,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "overnight dev run claude autonomously for 6-8 hours overnight using git hooks that enforce tdd - wake up to fully tested features productivity overnight autonomous tdd testing git-hooks automation continuous-integration test-driven-development productivity"
     },
     {
@@ -6322,6 +6793,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "owasp compliance checker check owasp top 10 compliance security security compliance auditing"
     },
     {
@@ -6348,6 +6822,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "pci dss validator validate pci dss compliance security security compliance auditing"
     },
     {
@@ -6376,6 +6853,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 84,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "penetration tester automated penetration testing for web applications with owasp top 10 coverage security security penetration-testing pentesting owasp exploitation"
     },
     {
@@ -6403,6 +6883,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "performance budget validator validate application against performance budgets performance performance-budget validation ci-cd testing"
     },
     {
@@ -6430,6 +6913,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "performance optimization advisor get comprehensive performance optimization recommendations performance optimization performance best-practices advisor"
     },
     {
@@ -6457,6 +6943,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "performance regression detector detect performance regressions in ci/cd pipeline performance regression performance ci-cd testing"
     },
     {
@@ -6485,6 +6974,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "performance test suite load testing and performance benchmarking with metrics analysis and bottleneck identification testing testing performance load-testing benchmarking stress-testing"
     },
     {
@@ -6518,6 +7010,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "pi pathfinder pi pathfinder - finds the path through 229 plugins. automatically picks the best plugin for your task, extracts its skills, and applies them. you don't pick plugins, pi does. part of our initiative to update all plugins with appropriate skill sets. example agent-skills pi pathfinder plugin-intelligence task-router auto-selector skill-extraction easy-mode automatic no-thinking-required"
     },
     {
@@ -6576,6 +7071,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "query performance analyzer analyze query performance with explain plan interpretation, bottleneck identification, and optimization recommendations database performance query optimization explain database"
     },
     {
@@ -6603,6 +7101,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "real user monitoring implement real user monitoring for actual performance data performance rum monitoring performance user-experience"
     },
     {
@@ -6631,6 +7132,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "recommendation engine build recommendation systems and engines ai-ml recommendations collaborative content-based ranking ml"
     },
     {
@@ -6659,6 +7163,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "regression analysis tool regression analysis and modeling ai-ml regression prediction linear polynomial ml"
     },
     {
@@ -6687,6 +7194,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "regression test tracker track and run regression tests to ensure new changes don't break existing functionality testing testing regression-testing test-tracking ci-cd quality-assurance"
     },
     {
@@ -6737,6 +7247,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "resource usage tracker track and optimize resource usage across the stack performance resources monitoring optimization metrics"
     },
     {
@@ -6764,6 +7277,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "response time tracker track and optimize application response times performance response-time latency performance monitoring"
     },
     {
@@ -6793,6 +7309,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "rest api generator generate restful apis from schemas with proper routing, validation, and documentation api-development api rest generator openapi swagger backend"
     },
     {
@@ -6871,6 +7390,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "secret scanner scan codebase for exposed secrets, api keys, passwords, and sensitive credentials security security secrets api-keys credentials passwords"
     },
     {
@@ -6900,6 +7422,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "secrets manager integrator integrate with secrets managers (vault, aws secrets manager, etc) devops secrets vault aws security credentials devops"
     },
     {
@@ -6922,6 +7447,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security agent security review subagent for code analysis security security agent code-review"
     },
     {
@@ -6948,6 +7476,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security audit reporter generate comprehensive security audit reports security security compliance auditing"
     },
     {
@@ -6974,6 +7505,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security headers analyzer analyze http security headers security security compliance auditing"
     },
     {
@@ -7000,6 +7534,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security incident responder assist with security incident response security security compliance auditing"
     },
     {
@@ -7026,6 +7563,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security misconfiguration finder find security misconfigurations security security compliance auditing"
     },
     {
@@ -7059,6 +7599,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security pro pack professional security tools for claude code: vulnerability scanning, compliance, cryptography audit, container & api security security security vulnerability-scanning compliance hipaa pci-dss gdpr soc2 cryptography devsecops package"
     },
     {
@@ -7087,6 +7630,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "security test scanner automated security vulnerability testing covering owasp top 10, sql injection, xss, csrf, and authentication issues testing testing security vulnerabilities owasp penetration-testing"
     },
     {
@@ -7115,6 +7661,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sentiment analysis tool sentiment analysis on text data ai-ml sentiment opinion emotion polarity nlp"
     },
     {
@@ -7143,6 +7692,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "service mesh configurator configure service mesh (istio, linkerd) for microservices devops service-mesh istio linkerd microservices devops"
     },
     {
@@ -7169,6 +7721,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "session security checker check session security implementation security security compliance auditing"
     },
     {
@@ -7197,6 +7752,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sla sli tracker track slas, slis, and slos for service reliability performance sla sli slo sre reliability"
     },
     {
@@ -7225,6 +7783,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "smoke test runner quick smoke test suites to verify critical functionality after deployments testing testing smoke-tests deployment sanity-check critical-path"
     },
     {
@@ -7254,6 +7815,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "snapshot test manager manage and update snapshot tests with intelligent diff analysis and selective updates testing testing snapshot jest vitest diff-analysis test-management"
     },
     {
@@ -7280,6 +7844,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "soc2 audit helper assist with soc2 audit preparation security security compliance auditing"
     },
     {
@@ -7332,6 +7899,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sql injection detector detect sql injection vulnerabilities security security compliance auditing"
     },
     {
@@ -7360,6 +7930,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sql query optimizer analyze and optimize sql queries for better performance, suggesting indexes, query rewrites, and execution plan improvements database sql optimization performance database query"
     },
     {
@@ -7386,6 +7959,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ssl certificate manager manage and monitor ssl/tls certificates security security compliance auditing"
     },
     {
@@ -7415,6 +7991,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 82,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "staking rewards optimizer optimize staking rewards across multiple protocols and chains crypto crypto staking defi yield optimization rewards"
     },
     {
@@ -7441,6 +8020,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 76,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "stored procedure generator database plugin for stored-procedure-generator database database backend procedure"
     },
     {
@@ -7482,6 +8064,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy firestore firestore database specialist for schema design, queries, and real-time sync database firebase firestore database crud security-rules cloud-functions batch-operations data-migration performance cost-optimization nosql google-cloud a2a agent-to-agent mcp cloud-run vertex-ai"
     },
     {
@@ -7515,6 +8100,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sugar transform claude code into an autonomous ai development powerhouse with rich task context, specialized agents, and intelligent workflow automation devops autonomous development ai task-management automation agents enterprise workflow productivity mcp"
     },
     {
@@ -7542,6 +8130,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "synthetic monitoring setup set up synthetic monitoring for proactive performance tracking performance synthetic-monitoring uptime performance testing"
     },
     {
@@ -7570,6 +8161,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "terraform module builder build reusable terraform modules devops terraform iac modules infrastructure devops"
     },
     {
@@ -7598,6 +8192,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test coverage analyzer analyze code coverage metrics, identify untested code, and generate comprehensive coverage reports testing testing coverage code-coverage metrics analysis"
     },
     {
@@ -7626,6 +8223,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test data generator generate realistic test data including users, products, orders, and custom schemas for comprehensive testing testing testing test-data fake-data fixtures factory"
     },
     {
@@ -7657,6 +8257,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test doubles generator generate mocks, stubs, spies, and fakes for unit testing with jest, sinon, and test frameworks testing testing mocks stubs spies fakes test-doubles jest sinon"
     },
     {
@@ -7686,6 +8289,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test environment manager manage test environments with docker compose, testcontainers, and environment isolation testing testing environment docker testcontainers isolation infrastructure"
     },
     {
@@ -7715,6 +8321,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test orchestrator orchestrate complex test workflows with dependencies, parallel execution, and smart test selection testing testing orchestration workflow parallel test-selection ci-cd"
     },
     {
@@ -7744,6 +8353,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "test report generator generate comprehensive test reports with coverage, trends, and stakeholder-friendly formats testing testing reporting coverage metrics dashboard ci-cd"
     },
     {
@@ -7771,6 +8383,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "throughput analyzer analyze and optimize system throughput performance throughput performance capacity optimization"
     },
     {
@@ -7799,6 +8414,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "time series forecaster time series forecasting and analysis ai-ml time-series forecasting arima prophet ml"
     },
     {
@@ -7830,6 +8448,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "token launch tracker track new token launches, detect rugpulls, and analyze contract security for early-stage crypto projects crypto crypto token-launch rugpull security scam-detection contract-analysis defi new-tokens"
     },
     {
@@ -7859,6 +8480,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 82,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "trading strategy backtester backtest trading strategies with historical data, performance metrics, and risk analysis crypto trading backtesting strategy historical performance risk"
     },
     {
@@ -7887,6 +8511,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "transfer learning adapter transfer learning adaptation ai-ml transfer-learning fine-tuning pretrained adapters ml"
     },
     {
@@ -7950,6 +8577,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "unit test generator automatically generate comprehensive unit tests from source code with multiple testing framework support testing testing unit-tests test-generation jest pytest mocha junit"
     },
     {
@@ -7980,6 +8610,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "visual regression tester visual diff testing with percy, chromatic, backstopjs - catch unintended ui changes testing testing visual-regression ui-testing percy chromatic backstop screenshot-testing"
     },
     {
@@ -8008,6 +8641,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "vulnerability scanner comprehensive vulnerability scanning for code, dependencies, and configurations with cve detection security security vulnerability scanning cve sast"
     },
     {
@@ -8066,6 +8702,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "web to github issue enhances web_search skill by automatically creating github issues from research findings. research topics, extract key insights, and generate formatted tickets in seconds. skill-enhancers web-search github automation research issue-tracking skill-enhancer productivity workflow"
     },
     {
@@ -8093,6 +8732,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "webhook handler creator create secure webhook endpoints with signature verification and retry logic api-development webhook events signature security"
     },
     {
@@ -8120,6 +8762,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "websocket server builder build websocket servers for real-time bidirectional communication api-development websocket real-time socket.io ws"
     },
     {
@@ -8148,6 +8793,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 87,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "whale alert monitor monitor large crypto transactions and whale wallet movements in real-time crypto whale alert monitor large transactions"
     },
     {
@@ -8204,6 +8852,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "xss vulnerability scanner scan for xss vulnerabilities security security compliance auditing"
     },
     {
@@ -8260,6 +8911,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy genkit pro firebase genkit expert for production-ready ai workflows with rag and tool calling ai-ml firebase genkit ai-flows rag monitoring gemini vertex-ai"
     },
     {
@@ -8289,6 +8943,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy adk orchestrator production adk orchestrator for a2a protocol and multi-agent coordination on vertex ai ai-ml vertex-ai adk a2a-protocol multi-agent code-execution memory-bank"
     },
     {
@@ -8317,6 +8974,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy vertex validator production readiness validator for vertex ai deployments and configurations ai-ml vertex-ai validation production-readiness security compliance"
     },
     {
@@ -8345,6 +9005,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy genkit terraform terraform modules for firebase genkit infrastructure and deployments devops terraform genkit firebase cloud-run infrastructure"
     },
     {
@@ -8374,6 +9037,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy adk terraform terraform infrastructure as code for adk and vertex ai agent engine deployments devops terraform adk agent-engine vertex-ai infrastructure vpc-sc"
     },
     {
@@ -8402,6 +9068,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy vertex terraform terraform configurations for vertex ai platform and agent engine devops terraform vertex-ai gemini model-garden infrastructure"
     },
     {
@@ -8431,6 +9100,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy vertex engine vertex ai agent engine deployment inspector and runtime validator ai-ml vertex-ai agent-engine runtime-inspector agent-monitoring compliance production-validation"
     },
     {
@@ -8462,6 +9134,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy gcp starter examples google cloud starter kits and example code aggregator with adk samples ai-ml google-cloud adk-samples genkit-examples vertex-ai agent-starter-pack code-examples starter-kits templates"
     },
     {
@@ -8497,6 +9172,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy github actions gcp github actions ci/cd workflows for google cloud and vertex ai deployments devops github-actions google-cloud workload-identity-federation wif vertex-ai agent-engine deployment ci-cd security best-practices oidc iam"
     },
     {
@@ -8592,6 +9270,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "claude never forgets persistent memory plugin for claude code - remembers preferences, decisions, and corrections across sessions and context limits productivity memory context persistent preferences sessions recall"
     },
     {
@@ -8656,6 +9337,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy adk software engineer adk software engineer for creating production-ready agents (placeholder - to be implemented) ai-ml adk software-engineer agent-development vertex-ai"
     },
     {
@@ -8693,6 +9377,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 97,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy firebase firebase platform expert for firestore, auth, functions, and vertex ai integration community firebase vertex-ai gemini authentication storage hosting cloud-functions analytics ai-integration google-cloud embeddings model-deployment ai-powered production-ready"
     },
     {
@@ -8762,6 +9449,9 @@
         "new"
       ],
       "skillCount": 4,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "jeremy plugin tool production-grade plugin creator with nixtla-validated quality standards. 4 agent skills automate creating, validating, auditing, and versioning plugins in the claude-code-plugins marketplace example skills agent-skills plugin-management marketplace validation audit versioning meta-plugin repository-tools"
     },
     {
@@ -8831,6 +9521,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 92,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "ollama local ai run ai models locally with ollama - free alternative to openai, anthropic, and other paid llm apis. zero-cost, privacy-first ai infrastructure. ai-ml ollama local-llm free-ai self-hosted llama mistral privacy zero-cost openai-alternative"
     },
     {
@@ -8867,6 +9560,9 @@
         "new"
       ],
       "skillCount": 4,
+      "verificationScore": 93,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sprint autonomous multi-agent development framework with spec-driven sprints. write specs, run /sprint, and let coordinated agents (backend, frontend, qa, ui testing) handle implementation through self-iterating convergent loops. development autonomous agentic yolo self-iterating multi-agent hands-off auto-pilot orchestration sprint testing qa mcp"
     },
     {
@@ -8926,6 +9622,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "wallet security auditor crypto wallet security auditor for reviewing wallet implementations, key management, signing flows, and common vulnerability patterns. crypto crypto wallet security audit web3"
     },
     {
@@ -8956,6 +9655,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "mattyp changelog automates changelog generation from git history with config validation and quality scoring. use when publishing weekly updates, release notes, or pr summaries. trigger with /changelog-weekly, /changelog-custom, or /changelog-validate. automation changelog release-notes weekly-update git github automation"
     },
     {
@@ -8992,6 +9694,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 87,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "supabase pack complete supabase integration skill pack with 30 skills covering authentication, database, storage, realtime, edge functions, and production operations. flagship+ tier vendor pack. database supabase postgres database authentication realtime storage edge-functions rls row-level-security baas backend-as-a-service firebase-alternative"
     },
     {
@@ -9026,6 +9731,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 87,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "vercel pack complete vercel integration skill pack with 30 skills covering deployments, edge functions, preview environments, performance optimization, and production operations. flagship+ tier vendor pack. devops vercel deployment edge-functions serverless preview ci-cd hosting next-js jamstack frontend-cloud"
     },
     {
@@ -9091,6 +9799,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 95,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "gastown multi-agent orchestrator for claude code. track work with convoys, sling to polecats. the cognition engine for ai-powered software factories. community multi-agent orchestration automation polecats convoys beads work-tracking ai-factory gastown claude-code"
     },
     {
@@ -9125,6 +9836,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "zai cli z.ai vision, search, reader, and github exploration via cli and mcp. analyze images, search the web, read pages as markdown, explore repos. community vision image-analysis ocr web-search web-reader github mcp z-ai glm-4 multimodal"
     },
     {
@@ -9157,6 +9871,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 65,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "apollo pack complete apollo integration skill pack with 24 skills covering sales engagement, prospecting, sequencing, analytics, and outbound automation. flagship tier vendor pack. business-tools apollo sales prospecting sequences outbound crm sales-engagement lead-generation"
     },
     {
@@ -9189,6 +9906,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 69,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "clerk pack complete clerk integration skill pack with 24 skills covering authentication, user management, embeddable uis, and identity platform. flagship tier vendor pack. security clerk authentication auth users identity sso embeddable-ui user-management"
     },
     {
@@ -9221,6 +9941,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 68,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "customerio pack complete customer.io integration skill pack with 24 skills covering marketing automation, email campaigns, sms, push notifications, and customer journeys. flagship tier vendor pack. business-tools customerio customer-io marketing email automation campaigns sms push-notifications"
     },
     {
@@ -9253,6 +9976,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 65,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "deepgram pack complete deepgram integration skill pack with 24 skills covering speech-to-text, real-time transcription, voice intelligence, and audio processing. flagship tier vendor pack. ai-ml deepgram speech-to-text transcription voice audio asr real-time voice-ai"
     },
     {
@@ -9284,6 +10010,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 71,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "gamma pack complete gamma integration skill pack with 24 skills covering ai presentations, document generation, templates, and visual content creation. flagship tier vendor pack. productivity gamma presentations documents ai-generation templates slides visual-content"
     },
     {
@@ -9315,6 +10044,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 72,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "granola pack complete granola integration skill pack with 24 skills covering ai meeting notes, transcription, summaries, and meeting intelligence. flagship tier vendor pack. productivity granola meeting-notes transcription summaries meetings ai-notes meeting-intelligence"
     },
     {
@@ -9346,6 +10078,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 71,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "juicebox pack complete juicebox integration skill pack with 24 skills covering people data, enrichment, contact search, and ai-powered discovery. flagship tier vendor pack. business-tools juicebox people-data enrichment contacts search data-api lead-enrichment"
     },
     {
@@ -9378,6 +10113,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 70,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "langchain pack complete langchain integration skill pack with 24 skills covering chains, agents, rag pipelines, memory, and llm application development. flagship tier vendor pack. ai-ml langchain llm chains agents rag memory ai-applications langsmith"
     },
     {
@@ -9408,6 +10146,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 75,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "lindy pack complete lindy integration skill pack with 24 skills covering ai assistants, task automation, workflows, and intelligent automation. flagship tier vendor pack. ai-ml lindy ai-assistant automation workflows tasks intelligent-automation"
     },
     {
@@ -9439,6 +10180,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 67,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "linear pack complete linear integration skill pack with 24 skills covering issue tracking, project management, workflows, and team collaboration. flagship tier vendor pack. productivity linear issues project-management tracking workflows agile team-collaboration"
     },
     {
@@ -9470,6 +10214,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 52,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "neurodivergent visual org create adhd-friendly visual organizational tools (mermaid diagrams) optimized for neurodivergent thinking patterns with accessibility modes productivity neurodivergent adhd autism accessibility mermaid-diagrams visual-organization task-breakdown decision-trees"
     },
     {
@@ -9531,6 +10278,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "brand strategy framework a 7-part brand strategy framework for building comprehensive brand foundations - the same methodology top agencies use with fortune 500 clients. business-tools brand-strategy marketing branding positioning messaging brand-guidelines audience-architecture brand-identity"
     },
     {
@@ -9563,6 +10313,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 69,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "databricks pack complete databricks integration skill pack with 24 skills covering delta lake, mlflow, notebooks, clusters, and data engineering workflows. flagship tier vendor pack. data-engineering databricks delta-lake mlflow spark notebooks clusters data-engineering lakehouse"
     },
     {
@@ -9594,6 +10347,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 66,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "documenso pack complete documenso integration skill pack with 24 skills covering document signing, templates, workflows, and e-signature automation. flagship tier vendor pack. business-tools documenso document-signing e-signature templates workflows contracts open-source"
     },
     {
@@ -9625,6 +10381,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "evernote pack complete evernote integration skill pack with 24 skills covering note management, notebooks, tags, search, and productivity workflows. flagship tier vendor pack. productivity evernote notes notebooks tags search productivity organization"
     },
     {
@@ -9656,6 +10415,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "guidewire pack complete guidewire integration skill pack with 24 skills covering insurancesuite, policycenter, claimcenter, and insurance platform development. flagship tier vendor pack. enterprise guidewire insurance policycenter claimcenter billingcenter insurancesuite enterprise"
     },
     {
@@ -9687,6 +10449,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 67,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "langfuse pack complete langfuse integration skill pack with 24 skills covering llm observability, tracing, prompt management, and evaluation. flagship tier vendor pack. ai-ml langfuse observability tracing prompts evaluation llm-ops monitoring"
     },
     {
@@ -9718,6 +10483,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 69,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "lokalise pack complete lokalise integration skill pack with 24 skills covering translation management, localization workflows, and i18n automation. flagship tier vendor pack. devops lokalise translation localization i18n l10n tms internationalization"
     },
     {
@@ -9749,6 +10517,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "maintainx pack complete maintainx integration skill pack with 24 skills covering work orders, preventive maintenance, asset management, and cmms workflows. flagship tier vendor pack. enterprise maintainx cmms work-orders maintenance assets facilities operations"
     },
     {
@@ -9780,6 +10551,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 68,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "mistral pack complete mistral ai integration skill pack with 24 skills covering model inference, embeddings, fine-tuning, and production deployments. flagship tier vendor pack. ai-ml mistral llm inference embeddings fine-tuning ai machine-learning"
     },
     {
@@ -9811,6 +10585,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 69,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "obsidian pack complete obsidian integration skill pack with 24 skills covering vault management, plugins, sync, templates, and knowledge management. flagship tier vendor pack. productivity obsidian notes vault plugins markdown knowledge-management pkm"
     },
     {
@@ -9842,6 +10619,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 66,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "openevidence pack complete openevidence integration skill pack with 24 skills covering medical ai, clinical decision support, evidence-based queries, and healthcare workflows. flagship tier vendor pack. ai-ml openevidence medical-ai clinical healthcare evidence-based decision-support medicine"
     },
     {
@@ -9873,6 +10653,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 68,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "speak pack complete speak integration skill pack with 24 skills covering ai language learning, speech recognition, conversation practice, and education technology. flagship tier vendor pack. ai-ml speak language-learning speech ai-tutor education conversation edtech"
     },
     {
@@ -9904,6 +10687,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 66,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "twinmind pack complete twinmind integration skill pack with 24 skills covering ai meeting assistant, transcription, summaries, and productivity automation. flagship tier vendor pack. productivity twinmind meetings transcription summaries ai-assistant productivity automation"
     },
     {
@@ -9935,6 +10721,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "clay pack complete clay integration skill pack with 30 skills covering data enrichment, waterfall workflows, ai agents, and gtm automation. flagship+ tier vendor pack. business-tools clay data-enrichment waterfall gtm sales-ops lead-enrichment ai-agents"
     },
     {
@@ -9965,6 +10754,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "coderabbit pack complete coderabbit integration skill pack with 24 skills covering ai code review, pr automation, and code quality analysis. flagship tier vendor pack. code-quality coderabbit code-review pr-automation ai-review code-quality github-integration"
     },
     {
@@ -9996,6 +10788,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "cursor pack complete cursor integration skill pack with 30 skills covering ai code editing, composer workflows, codebase indexing, and productivity features. flagship+ tier vendor pack. productivity cursor ai-editor code-editor composer ai-coding vscode-fork copilot-alternative"
     },
     {
@@ -10027,6 +10822,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "exa pack complete exa integration skill pack with 30 skills covering neural search, semantic retrieval, web search api, and ai-powered discovery. flagship+ tier vendor pack. ai-ml exa neural-search semantic-search web-search ai-search retrieval embeddings"
     },
     {
@@ -10058,6 +10856,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "firecrawl pack complete firecrawl integration skill pack with 30 skills covering web scraping, crawling, markdown conversion, and llm-ready data extraction. flagship+ tier vendor pack. data-engineering firecrawl web-scraping crawling markdown llm-ready data-extraction scraper"
     },
     {
@@ -10087,6 +10888,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "fireflies pack complete fireflies integration skill pack with 24 skills covering meeting transcription, ai summaries, and conversation intelligence. flagship tier vendor pack. productivity fireflies meeting-transcription ai-notes conversation-intelligence summaries"
     },
     {
@@ -10118,6 +10922,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "groq pack complete groq integration skill pack with 24 skills covering lpu inference, ultra-fast ai, and groq cloud deployment. flagship tier vendor pack. ai-ml groq lpu fast-inference llm groq-cloud low-latency ai-acceleration"
     },
     {
@@ -10149,6 +10956,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "ideogram pack complete ideogram integration skill pack with 24 skills covering ai image generation, text rendering, and creative design workflows. flagship tier vendor pack. ai-ml ideogram image-generation text-to-image ai-art typography creative design"
     },
     {
@@ -10179,6 +10989,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "instantly pack complete instantly integration skill pack with 24 skills covering cold email, outreach automation, and lead generation. flagship tier vendor pack. business-tools instantly cold-email outreach email-automation lead-generation sales"
     },
     {
@@ -10210,6 +11023,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 94,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "klingai pack complete kling ai integration skill pack with 30 skills covering ai video generation, text-to-video, image-to-video, and creative workflows. flagship+ tier vendor pack. ai-ml klingai kling video-generation text-to-video ai-video generative-ai creative"
     },
     {
@@ -10240,6 +11056,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 96,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "openrouter pack complete openrouter integration skill pack with 30 skills covering llm routing, model selection, cost optimization, and multi-provider orchestration. flagship+ tier vendor pack. ai-ml openrouter llm-routing model-selection ai-gateway multi-model cost-optimization"
     },
     {
@@ -10271,6 +11090,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "perplexity pack complete perplexity integration skill pack with 30 skills covering ai search, real-time answers, citations, and research workflows. flagship+ tier vendor pack. ai-ml perplexity ai-search research citations real-time knowledge answers"
     },
     {
@@ -10301,6 +11123,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "posthog pack complete posthog integration skill pack with 24 skills covering product analytics, feature flags, session replay, and experimentation. flagship tier vendor pack. analytics posthog product-analytics feature-flags session-replay ab-testing experimentation"
     },
     {
@@ -10332,6 +11157,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "replit pack complete replit integration skill pack with 30 skills covering cloud ide, deployments, ai assistance, and collaborative coding. flagship+ tier vendor pack. productivity replit cloud-ide deployments collaborative ai-coding browser-ide hosting"
     },
     {
@@ -10363,6 +11191,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "retellai pack complete retell ai integration skill pack with 30 skills covering ai voice agents, phone automation, conversational ai, and call center solutions. flagship+ tier vendor pack. ai-ml retellai retell voice-ai phone-agents conversational-ai call-center ivr"
     },
     {
@@ -10394,6 +11225,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 91,
+      "verificationGrade": "A",
+      "verificationBadge": "gold",
       "searchText": "sentry pack complete sentry integration skill pack with 30 skills covering error monitoring, performance tracking, session replay, and observability. flagship+ tier vendor pack. devops sentry error-monitoring performance observability debugging crash-reporting apm"
     },
     {
@@ -10425,6 +11259,9 @@
         "new"
       ],
       "skillCount": 24,
+      "verificationScore": 81,
+      "verificationGrade": "B",
+      "verificationBadge": "silver",
       "searchText": "vastai pack complete vast.ai integration skill pack with 24 skills covering gpu marketplace, cloud compute, and ml infrastructure. flagship tier vendor pack. ai-ml vastai vast-ai gpu-marketplace cloud-gpu ml-infrastructure compute training"
     },
     {
@@ -10456,6 +11293,9 @@
         "new"
       ],
       "skillCount": 30,
+      "verificationScore": 79,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "windsurf pack complete windsurf integration skill pack with 30 skills covering ai code editing, cascade workflows, codebase understanding, and developer productivity. flagship+ tier vendor pack. productivity windsurf ai-editor cascade codeium ai-coding code-completion refactoring"
     },
     {
@@ -10487,6 +11327,9 @@
         "new"
       ],
       "skillCount": 5,
+      "verificationScore": 67,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "youtube strategy complete youtube content production workflow: research competitors, generate video ideas, build briefs, craft titles and thumbnails, and create detailed video outlines with demo prep checklists. productivity youtube content-strategy video-production ideation research thumbnails titles outlining content-creation"
     },
     {
@@ -10517,6 +11360,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 75,
+      "verificationGrade": "C",
+      "verificationBadge": "silver",
       "searchText": "b12 claude plugin b12 website generator — an official plugin by b12.io. ships a single auto-activating skill (website-generator) that collects a business name and description, then generates a production-ready b12 website signup link instantly. community website b12 hosting web-design ai-website website-generator saas"
     },
     {
@@ -10548,6 +11394,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai blue ocean strategy blue ocean strategy framework for creating uncontested market space. use the strategy canvas, four actions framework (errc), and value innovation to break the value-cost trade-off. business-tools strategy blue-ocean value-innovation market-creation errc strategy-canvas competition positioning"
     },
     {
@@ -10579,6 +11428,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 54,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai contagious word-of-mouth and virality framework using the stepps model (social currency, triggers, emotion, public, practical value, stories). engineer products and content that people naturally share. business-tools virality word-of-mouth stepps social-currency marketing content-strategy sharing growth"
     },
     {
@@ -10610,6 +11462,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai cro methodology customer-centric conversion rate optimization methodology. audit landing pages, identify conversion blockers, write persuasive copy, design a/b tests, and optimize funnels. business-tools cro conversion optimization landing-pages ab-testing copywriting persuasion funnels"
     },
     {
@@ -10641,6 +11496,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 67,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai crossing the chasm technology adoption and go-to-market strategy for crossing from early adopters to mainstream market. choose beachhead segments, build whole products, and position against incumbents. business-tools go-to-market technology-adoption chasm beachhead b2b saas market-strategy positioning"
     },
     {
@@ -10672,6 +11530,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai design everyday things fundamental design principles from don norman. design affordances, signifiers, constraints, and feedback mechanisms. apply human-centered design and fault-tolerant systems. design design ux affordances signifiers human-centered-design usability don-norman hcd"
     },
     {
@@ -10703,6 +11564,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 58,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai design sprint google ventures design sprint methodology. validate product ideas in 5 days with rapid prototyping, user testing, and structured decision-making. productivity design-sprint prototyping user-testing validation gv product-design rapid-iteration mvp"
     },
     {
@@ -10734,6 +11598,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai drive motivation intrinsic motivation science framework (autonomy, mastery, purpose). design features that leverage intrinsic motivation, create progress systems, and craft purpose-driven messaging. business-tools motivation autonomy mastery purpose engagement gamification intrinsic-motivation team-management"
     },
     {
@@ -10765,6 +11632,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai hooked ux hook model framework for building habit-forming products. design trigger-action-reward-investment loops, increase retention, and optimize onboarding for habit formation. design habits engagement retention hook-model triggers rewards onboarding ux"
     },
     {
@@ -10796,6 +11666,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 56,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai hundred million offers grand slam offer creation framework. create irresistible offers using the value equation, stack bonuses, design risk-reversing guarantees, and apply ethical scarcity. business-tools offers pricing value-equation guarantees bonuses scarcity sales hormozi"
     },
     {
@@ -10827,6 +11700,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai influence psychology persuasion science framework based on cialdini's six principles (reciprocity, commitment, social proof, authority, liking, scarcity). apply ethical persuasion to product design and marketing. business-tools persuasion influence cialdini social-proof reciprocity scarcity psychology marketing"
     },
     {
@@ -10858,6 +11734,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 57,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai ios hig design native ios app design following apple human interface guidelines. design swiftui/uikit components, implement navigation patterns, and ensure accessibility compliance. design ios apple hig swiftui uikit mobile-design accessibility interface-guidelines"
     },
     {
@@ -10889,6 +11768,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 62,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai jobs to be done strategic product innovation framework using clayton christensen's jtbd theory. discover customer motivations, conduct discovery interviews, and design products around the jobs customers hire them for. business-tools jtbd jobs-to-be-done product-strategy customer-discovery innovation christensen product-market-fit interviews"
     },
     {
@@ -10920,6 +11802,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 63,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai lean startup lean startup methodology for validated learning, mvps, and innovation accounting. design experiments, decide when to pivot vs. persevere, and reduce development waste. productivity lean-startup mvp validated-learning pivot metrics innovation-accounting experimentation build-measure-learn"
     },
     {
@@ -10951,6 +11836,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 61,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai made to stick sticky messaging framework using the success model (simple, unexpected, concrete, credible, emotional, stories). make product messaging memorable and create compelling presentations. business-tools messaging storytelling success sticky communication presentations copywriting branding"
     },
     {
@@ -10982,6 +11870,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 56,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai negotiation tactical negotiation framework based on chris voss's techniques. use mirroring, labeling, calibrated questions, the ackerman method, and accusation audits for business and salary negotiations. business-tools negotiation chris-voss mirroring labeling ackerman salary deals conflict-resolution"
     },
     {
@@ -11013,6 +11904,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 67,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai obviously awesome product positioning framework for competitive differentiation. define competitive alternatives, identify unique attributes, map value themes, and choose the right market category. business-tools positioning differentiation competitive-analysis market-category value-proposition april-dunford go-to-market branding"
     },
     {
@@ -11044,6 +11938,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 56,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai one page marketing end-to-end marketing plan framework. define target market, craft usp, choose channels, design lead capture and nurture sequences, optimize conversion, and build referral systems. business-tools marketing-plan usp lead-generation nurture referral advertising customer-lifetime-value marketing-strategy"
     },
     {
@@ -11076,6 +11973,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai predictable revenue outbound sales methodology for scalable b2b pipeline. implement cold calling 2.0, structure sdr/ae/csm roles, design prospecting sequences, and build predictable revenue engines. business-tools sales outbound sdr pipeline b2b saas prospecting cold-calling revenue"
     },
     {
@@ -11107,6 +12007,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai refactoring ui practical ui design system for professional interfaces. fix visual hierarchy, choose typography and color scales, add depth with shadows, and style components in tailwind css. design ui-design visual-hierarchy typography color-palette tailwind shadows spacing refactoring-ui"
     },
     {
@@ -11138,6 +12041,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 70,
+      "verificationGrade": "C",
+      "verificationBadge": "bronze",
       "searchText": "wondelai scorecard marketing lead generation framework using quiz and assessment funnels. create lead magnets that convert 30-50%, design qualifying questions, and segment automated follow-up sequences. business-tools lead-generation quiz-funnel assessment scorecard conversion segmentation lead-magnet marketing-automation"
     },
     {
@@ -11169,6 +12075,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 63,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai storybrand messaging storybrand messaging framework that positions customer as hero. create brand scripts, write website copy that converts, craft one-liners, and build narrative-driven landing pages. business-tools storybrand messaging brand-script copywriting narrative website-copy one-liner donald-miller"
     },
     {
@@ -11200,6 +12109,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 61,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai top design award-winning web design framework for premium brand experiences. build immersive websites with custom animations, dramatic typography, and scroll-based compositions. design web-design awwwards animations typography scroll-effects brand-website premium-design motion"
     },
     {
@@ -11231,6 +12143,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 64,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai traction eos entrepreneurial operating system (eos) for business execution. create v/to, set quarterly rocks, run level 10 meetings, build accountability charts, and solve issues with ids. business-tools eos traction operating-system rocks l10-meetings accountability vision execution"
     },
     {
@@ -11262,6 +12177,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 66,
+      "verificationGrade": "D",
+      "verificationBadge": "bronze",
       "searchText": "wondelai ux heuristics usability heuristics and ux audit framework based on nielsen and krug. conduct heuristic evaluations, identify usability problems, and prioritize fixes by severity. design ux usability heuristics nielsen krug ux-audit evaluation accessibility"
     },
     {
@@ -11293,6 +12211,9 @@
         "new"
       ],
       "skillCount": 1,
+      "verificationScore": 59,
+      "verificationGrade": "F",
+      "verificationBadge": null,
       "searchText": "wondelai web typography web typography framework for readable, beautiful type. select and pair typefaces, set optimal line length and height, implement responsive typography, and optimize web font loading. design typography web-fonts typeface font-pairing readability responsive-typography css type-hierarchy"
     },
     {
